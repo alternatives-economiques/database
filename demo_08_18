@@ -1,0 +1,268 @@
+NUTS_ID_2,Régions,2018/2008
+BE10,Région de Bruxelles-Capitale,14.97%
+BE21,Prov. Antwerpen,7.80%
+BE22,Prov. Limburg (BE),5.57%
+BE23,Prov. Oost-Vlaanderen,6.94%
+BE24,Prov. Vlaams-Brabant,7.39%
+BE25,Prov. West-Vlaanderen,3.63%
+BE31,Prov. Brabant Wallon,7.50%
+BE32,Prov. Hainaut,3.36%
+BE33,Prov. Liège,5.19%
+BE34,Prov. Luxembourg (BE),7.92%
+BE35,Prov. Namur,6.40%
+BG31,Severozapaden,-15.85%
+BG32,Severen tsentralen,-11.38%
+BG33,Severoiztochen,-4.83%
+BG34,Yugoiztochen,-5.68%
+BG41,Yugozapaden,-0.90%
+BG42,Yuzhen tsentralen,-6.24%
+CZ01,Praha,8.28%
+CZ02,Strední Cechy,12.59%
+CZ03,Jihozápad,2.51%
+CZ04,Severozápad,-1.20%
+CZ05,Severovýchod,1.08%
+CZ06,Jihovýchod,2.08%
+CZ07,Strední Morava,-1.09%
+CZ08,Moravskoslezsko,-2.99%
+DK01,Hovedstaden,10.74%
+DK02,Sjælland,1.90%
+DK03,Syddanmark,2.19%
+DK04,Midtjylland,6.19%
+DK05,Nordjylland,1.78%
+DE11,Stuttgart,2.98%
+DE12,Karlsruhe,2.06%
+DE13,Freiburg,2.65%
+DE14,Tübingen,2.18%
+DE21,Oberbayern,7.79%
+DE22,Niederbayern,3.01%
+DE23,Oberpfalz,1.63%
+DE24,Oberfranken,-2.02%
+DE25,Mittelfranken,2.66%
+DE26,Unterfranken,-1.60%
+DE27,Schwaben,4.76%
+DE30,Berlin,5.77%
+DE40,Brandenburg,-1.25%
+DE50,Bremen,2.71%
+DE60,Hamburg,3.39%
+DE71,Darmstadt,5.23%
+DE72,Gießen,-0.71%
+DE73,Kassel,-1.59%
+DE80,Mecklenburg-Vorpommern,-4.08%
+DE91,Braunschweig,-2.30%
+DE92,Hannover,-0.59%
+DE93,Lüneburg,0.31%
+DE94,Weser-Ems,1.45%
+DEA1,Düsseldorf,-0.18%
+DEA2,Köln,1.44%
+DEA3,Münster,0.26%
+DEA4,Detmold,-0.24%
+DEA5,Arnsberg,-3.76%
+DEB,Rheinland-Pfalz,0.69%
+DEB1,Koblenz,-0.99%
+DEB2,Trier,2.64%
+DEB3,Rheinhessen-Pfalz,1.45%
+DEC0,Saarland,-4.09%
+DED2,Dresde,-3.29%
+DED4,Chemnitz,-3.29%
+DED5,Leipzig,-3.29%
+DEE0,Sachsen-Anhalt,-7.85%
+DEF0,Schleswig-Holstein,1.85%
+DEG0,Thüringen,-6.03%
+IE01,"Border, Midland and Western (NUTS 2013)",7.04%
+IE02,Southern and Eastern (NUTS 2013),7.43%
+EL51,"Anatoliki Makedonia, Thraki",-0.70%
+EL52,Kentriki Makedonia,-1.57%
+EL53,Dytiki Makedonia,-6.09%
+EL54,Ipeiros,-2.92%
+EL61,Thessalia,-2.94%
+EL62,Ionia Nisia,-1.42%
+EL63,Dytiki Ellada,-4.91%
+EL64,Sterea Ellada,0.01%
+EL65,Peloponnisos,-1.56%
+EL30,Attiki,-5.87%
+EL41,Voreio Aigaio,6.27%
+EL42,Notio Aigaio,3.44%
+EL43,Kriti,3.32%
+ES11,Galicia,-1.87%
+ES12,Principado de Asturias,-4.06%
+ES13,Cantabria,0.70%
+ES21,País Vasco,0.53%
+ES22,Comunidad Foral de Navarra,4.40%
+ES23,La Rioja,-1.05%
+ES24,Aragón,-0.93%
+ES30,Comunidad de Madrid,5.19%
+ES41,Castilla y León,-4.85%
+ES42,Castilla-la Mancha,0.04%
+ES43,Extremadura,-1.76%
+ES51,Cataluña,2.43%
+ES52,Comunidad Valenciana,0.37%
+ES53,Illes Balears,11.90%
+ES61,Andalucía,3.59%
+ES62,Región de Murcia,3.95%
+ES63,Ciudad Autónoma de Ceuta (ES),13.23%
+ES70,Canarias (ES),9.29%
+FR10,Île de France,4.50%
+FRB0,Centre - Val de Loire,1.58%
+FRC1,Bourgogne,-0.71%
+FRC2,Franche-Comté,1.15%
+FRD1,Basse-Normandie,0.13%
+FRD2,Haute-Normandie,1.73%
+FRE1,Nord-Pas de Calais,1.00%
+FRE2,Picardie,1.08%
+FRF1,Alsace,2.75%
+FRF2,Champagne-Ardenne,-1.13%
+FRF3,Lorraine,-1.00%
+FRG0,Pays de la Loire,7.45%
+FRH0,Bretagne,5.51%
+FRI1,Aquitaine,8.00%
+FRI2,Limousin,-1.15%
+FRI3,Poitou-Charentes,3.22%
+FRJ1,Languedoc-Roussillon,9.38%
+FRJ2,Midi-Pyrénées,7.24%
+FRK1,Auvergne,1.47%
+FRK2,Rhône-Alpes,8.39%
+FRL0,Provence-Alpes-Côte d'Azur,3.39%
+FRM0,Corse,11.06%
+HR03,Jadranska Hrvatska,-2.38%
+HR04,Kontinentalna Hrvatska,-5.96%
+ITC1,Piemonte,1.01%
+ITC2,Valle d'Aosta/Vallée d'Aoste,0.52%
+ITC3,Liguria,-1.04%
+ITC4,Lombardia,5.98%
+ITH1,Provincia Autonoma di Bolzano/Bozen,7.70%
+ITH2,Provincia Autonoma di Trento,6.05%
+ITH3,Veneto,2.54%
+ITH4,Friuli-Venezia Giulia,0.10%
+ITH5,Emilia-Romagna,5.45%
+ITI1,Toscana,3.37%
+ITI2,Umbria,2.04%
+ITI3,Marche,0.69%
+ITI4,Lazio,10.37%
+ITF1,Abruzzo,1.33%
+ITF2,Molise,-2.88%
+ITF3,Campania,1.33%
+ITF4,Puglia,0.19%
+ITF5,Basilicata,-3.04%
+ITF6,Calabria,-0.88%
+ITG1,Sicilia,0.91%
+ITG2,Sardegna,0.51%
+LT01,Sostines regionas,-2.53%
+LT02,Vidurio ir vakaru Lietuvos regionas,-16.04%
+HU11,Budapest,3.94%
+HU12,Pest,3.94%
+HU21,Közép-Dunántúl,-4.46%
+HU22,Nyugat-Dunántúl,-1.25%
+HU23,Dél-Dunántúl,-7.63%
+HU31,Észak-Magyarország,-8.23%
+HU32,Észak-Alföld,-3.56%
+HU33,Dél-Alföld,-6.79%
+NL11,Groningen,1.65%
+NL12,Friesland (NL),0.63%
+NL13,Drenthe,0.81%
+NL21,Overijssel,2.81%
+NL22,Gelderland,3.84%
+NL23,Flevoland,8.71%
+NL31,Utrecht,7.84%
+NL32,Noord-Holland,7.81%
+NL33,Zuid-Holland,6.34%
+NL34,Zeeland,0.45%
+NL41,Noord-Brabant,4.27%
+NL42,Limburg (NL),-0.58%
+AT11,Burgenland (AT),4.16%
+AT12,Niederösterreich,4.71%
+AT13,Wien,13.02%
+AT21,Kärnten,0.21%
+AT22,Steiermark,3.03%
+AT31,Oberösterreich,4.82%
+AT32,Salzburg,5.06%
+AT33,Tirol,7.37%
+AT34,Vorarlberg,7.16%
+PL11,Lódzkie (NUTS 2013),-3.66%
+PL12,Mazowieckie (NUTS 2013),3.30%
+PL21,Malopolskie,2.15%
+PL22,Slaskie,-3.29%
+PL31,Lubelskie (NUTS 2013),-2.81%
+PL32,Podkarpackie (NUTS 2013),-0.55%
+PL33,Swietokrzyskie (NUTS 2013),-3.41%
+PL34,Podlaskie (NUTS 2013),-3.17%
+PL41,Wielkopolskie,2.32%
+PL42,Zachodniopomorskie,-0.79%
+PL43,Lubuskie,-0.43%
+PL51,Dolnoslaskie,-0.45%
+PL52,Opolskie,-8.51%
+PL61,Kujawsko-Pomorskie,-0.31%
+PL62,Warminsko-Mazurskie,-1.24%
+PL63,Pomorskie,3.80%
+PT11,Norte,-3.86%
+PT15,Algarve,1.16%
+PT16,Centro (PT),-4.89%
+PT17,Área Metropolitana de Lisboa,2.09%
+PT18,Alentejo,-7.24%
+PT20,Região Autónoma dos Açores (PT),-1.02%
+PT30,Região Autónoma da Madeira (PT),-3.45%
+RO11,Nord-Vest,-6.00%
+RO12,Centru,-7.88%
+RO21,Nord-Est,-13.47%
+RO22,Sud-Est,-14.29%
+RO31,Sud - Muntenia,-9.93%
+RO32,Bucuresti - Ilfov,2.64%
+RO41,Sud-Vest Oltenia,-14.13%
+RO42,Vest,-7.38%
+SI03,Vzhodna Slovenija,0.00%
+SI04,Zahodna Slovenija,6.15%
+SK01,Bratislavský kraj,9.79%
+SK02,Západné Slovensko,-0.97%
+SK03,Stredné Slovensko,-0.70%
+SK04,Východné Slovensko,2.29%
+FI19,Länsi-Suomi,2.66%
+FI1B,Helsinki-Uusimaa,11.59%
+FI1C,Etelä-Suomi,0.77%
+FI1D,Pohjois- ja Itä-Suomi,-0.48%
+FI20,Åland,8.60%
+SE11,Stockholm,18.40%
+SE12,Östra Mellansverige,9.99%
+SE21,Småland med öarna,6.40%
+SE22,Sydsverige,11.31%
+SE23,Västsverige,9.62%
+SE31,Norra Mellansverige,3.30%
+SE32,Mellersta Norrland,1.45%
+SE33,Övre Norrland,2.28%
+UKC1,Tees Valley and Durham,3.11%
+UKC2,Northumberland and Tyne and Wear,3.31%
+UKD1,Cumbria,-0.52%
+UKD3,Greater Manchester,7.61%
+UKD4,Lancashire,2.76%
+UKD6,Cheshire,3.92%
+UKD7,Merseyside,3.82%
+UKE1,East Yorkshire and Northern Lincolnshire,2.29%
+UKE2,North Yorkshire,4.79%
+UKE3,South Yorkshire,6.59%
+UKE4,West Yorkshire,6.27%
+UKF1,Derbyshire and Nottinghamshire,6.64%
+UKF2,"Leicestershire, Rutland and Northamptonshire",9.99%
+UKF3,Lincolnshire,7.94%
+UKG1,"Herefordshire, Worcestershire and Warwickshire",5.26%
+UKG2,Shropshire and Staffordshire,4.98%
+UKG3,West Midlands,9.61%
+UKH1,East Anglia,8.06%
+UKH2,Bedfordshire and Hertfordshire,11.25%
+UKH3,Essex,8.38%
+UKI,London,14.79%
+UKJ1,"Berkshire, Buckinghamshire and Oxfordshire",9.16%
+UKJ2,"Surrey, East and West Sussex",8.53%
+UKJ3,Hampshire and Isle of Wight,7.28%
+UKJ4,Kent,10.04%
+UKK1,"Gloucestershire, Wiltshire and Bristol/Bath area",8.94%
+UKK2,Dorset and Somerset,6.49%
+UKK3,Cornwall and Isles of Scilly,7.38%
+UKK4,Devon,5.86%
+UKL1,West Wales and The Valleys,2.65%
+UKL2,East Wales,5.43%
+UKM2,Eastern Scotland (NUTS 2013),5.87%
+UKM3,South Western Scotland (NUTS 2013),2.14%
+UKM5,North Eastern Scotland,7.80%
+UKM6,Highlands and Islands,2.91%
+UKN0,Northern Ireland (UK),5.96%
+LU00,Luxembourg,24.43%
+LV00,Lettonie,-11.75%
+EE00,Estonie,-1.44%
